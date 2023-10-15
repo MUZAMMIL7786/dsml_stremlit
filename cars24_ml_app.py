@@ -2,7 +2,7 @@ import pandas
 import streamlit as st
 import datetime
 import pickle
-import sklearn
+# import sklearn
 
 st.write("""
         # Cars24 Used Car Prices Prediction App
